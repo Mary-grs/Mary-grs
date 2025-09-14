@@ -1,8 +1,9 @@
 # 👩‍💻 Maryam Garousi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=🌟+Frontend+Developer;⚡+React+%7C+Next.js+%7C+Vue.js;🎨+UI%2FUX+%7C+Animations;🚀+Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=🌟+Frontend+Developer;⚡+React+%7C+Next.js+%7C+Vue.js;🎨+UI%2FUX+%7C+Animations;🚀+Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -94,19 +95,9 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Mary-grs/Mary-grs/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🎭 Fun & Creativity  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
