@@ -35,7 +35,7 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 
 **Front-End Developer**  
 📍 Makeen Ideal Media  
-🗓️ May 2024 – Present  
+🗓️ May 2023 – Present  
 
 - Developing web applications using React.js, Next.js, and TypeScript.  
 - Using Redux for efficient and transparent state management.  
