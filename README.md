@@ -58,25 +58,25 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 - Implemented **User Panel** and integrated APIs.  
 - Optimized with SSR + SSG for scalability and performance.  
 
-🛒 **E-Commerce Platform**  
+### 🛒 E-Commerce Platform  
 - Developed with React.js and Redux for state management.  
 - Styled with Tailwind CSS for responsiveness.  
 - Implemented shopping cart, product filtering, and checkout process.  
 - Integrated with REST APIs for real-time data.  
 
-🌦️ **Weather App**  
+### 🌦️ Weather App 
 - Built with React.js and Axios for API requests.  
 - Search functionality with city-based weather data.  
 - Styled with Tailwind CSS and optimized for mobile.  
 - Error handling for invalid inputs with Toastify.  
 
-📚 **Admin Panel **  
+### 📚 Admin Panel   
 - Created with Next.js + TypeScript.  
 - Responsive layout with Sidebar & Header components.  
 - API integration for managing articles and users.  
 - Designed with Tailwind CSS based on Figma UI.  
 
-📊 **Dashboard Analytics**  
+### 📊 Dashboard Analytics 
 - Developed with React.js and Recharts.  
 - Interactive charts and graphs for data visualization.  
 - Clean and minimal UI with Tailwind CSS.  
