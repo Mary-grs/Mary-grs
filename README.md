@@ -1,6 +1,8 @@
 # 👩‍💻 Maryam Garousi  
 
-🌟 Frontend Developer | React.js • Next.js • Vue.js • TypeScript • TailwindCSS  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=🌟+Frontend+Developer;⚡+React+%7C+Next.js+%7C+Vue.js;🎨+UI%2FUX+%7C+Animations;🚀+Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -14,20 +16,9 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 
 ## 🛠 Skills  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,ts,js,redux,git,tailwind,html,css,figma,axios&theme=light" />
+</p>
 
 ---
 
@@ -92,8 +83,35 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mary-grs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-grs&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mary-grs&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Mary-grs&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mary-grs&theme=radical&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Mary-grs/Mary-grs/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎭 Fun & Creativity  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 ---
 
@@ -105,4 +123,5 @@ Collaborating with teammates to overcome challenges is what truly drives me and 
 - 🔗 **LinkedIn:** [maryam-garousi](https://www.linkedin.com/in/maryam-garousi)  
 
 ---
+
 ✨ *Thanks for visiting my profile!* ✨
